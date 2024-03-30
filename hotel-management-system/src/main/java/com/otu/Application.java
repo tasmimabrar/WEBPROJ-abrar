@@ -1,4 +1,4 @@
-package com.webdevuoit3230.hotel_management_system;
+package com.otu;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
