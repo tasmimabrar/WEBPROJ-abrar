@@ -48,7 +48,7 @@ hotel-management-system
 │ │ │ └── com
 │ │ │ │ └── otu
 │ │ │ │ │ └── hotel_management_system
-│ │ │ │ │ │ └── SimpleStrategyTest.java
+│ │ │ │ │ │ └── ApplicationTest.java
 └── pom.xml
 ```
 
