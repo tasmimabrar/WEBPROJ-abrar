@@ -13,43 +13,42 @@ hotel-management-system
 │ ├── main
 │ │ ├── java
 │ │ │ └── com
-│ │ │ └── webdevuoit3230
-│ │ │ └── hotel_management_system
-│ │ │ ├── model
-│ │ │ │ ├── Customer.java
-│ │ │ │ ├── Room.java
-│ │ │ │ ├── Booking.java
-│ │ │ │ └── ProvidedService.java
-│ │ │ ├── repository
-│ │ │ │ ├── CustomerRepository.java
-│ │ │ │ ├── RoomRepository.java
-│ │ │ │ ├── BookingRepository.java
-│ │ │ │ └── ProvidedServiceRepository.java
-│ │ │ ├── service
-│ │ │ │ ├── CustomerService.java
-│ │ │ │ ├── RoomService.java
-│ │ │ │ ├── BookingService.java
-│ │ │ │ └── ProvidedServiceService.java
-│ │ │ └── controller
-│ │ │ ├── CustomerController.java
-│ │ │ ├── RoomController.java
-│ │ │ ├── BookingController.java
-│ │ │ └── ProvidedServiceController.java
+│ │ │ │ └── otu
+│ │ │ │ │ ├── model
+│ │ │ │ │ │ ├── Customer.java
+│ │ │ │ │ │ ├── Room.java
+│ │ │ │ │ │ ├── Booking.java
+│ │ │ │ │ │ └── ProvidedService.java
+│ │ │ │ │ ├── repository
+│ │ │ │ │ │ ├── CustomerRepository.java
+│ │ │ │ │ │ ├── RoomRepository.java
+│ │ │ │ │ │ ├── BookingRepository.java
+│ │ │ │ │ │ └── ProvidedServiceRepository.java
+│ │ │ │ │ ├── service
+│ │ │ │ │ │ ├── CustomerService.java
+│ │ │ │ │ │ ├── RoomService.java
+│ │ │ │ │ │ ├── BookingService.java
+│ │ │ │ │ │ └── ProvidedServiceService.java
+│ │ │ │ │ └── controller
+│ │ │ │ │ ├── CustomerController.java
+│ │ │ │ │ ├── RoomController.java
+│ │ │ │ │ ├── BookingController.java
+│ │ │ │ │ └── ProvidedServiceController.java
 │ │ └── resources
-│ │ ├── application.properties
-│ │ ├── static
-│ │ │ └── style.css
-│ │ └── templates
-│ │ ├── customers.html
-│ │ ├── rooms.html
-│ │ ├── bookings.html
-│ │ └── services.html
+│ │ │ ├── application.properties
+│ │ │ ├── static
+│ │ │ │ └── style.css
+│ │ │ └── templates
+│ │ │ │ ├── customers.html
+│ │ │ │ ├── rooms.html
+│ │ │ │ ├── bookings.html
+│ │ │ │ └── services.html
 │ └── test
-│ └── java
-│ └── com
-│ └── webdevuoit3230
-│ └── hotel_management_system
-│ └── SimpleStrategyTest.java
+│ │ └── java
+│ │ │ └── com
+│ │ │ │ └── otu
+│ │ │ │ │ └── hotel_management_system
+│ │ │ │ │ │ └── SimpleStrategyTest.java
 └── pom.xml
 ```
 
